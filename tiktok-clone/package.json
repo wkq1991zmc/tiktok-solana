@@ -9,7 +9,8 @@
     "@solana/spl-token": "^0.2.0",
     "@solana/web3.js": "^1.40.0",
     "bn": "^1.0.5",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "netlify-cli": "^10.3.3"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
